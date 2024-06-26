@@ -1,1 +1,1 @@
-3equoia.github.io/snowman-css
+https://3equoia.github.io/snowman-css
